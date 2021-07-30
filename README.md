@@ -14,7 +14,7 @@ Technologies Used:
   - Visual Studio Code
     - Dev Container
   - Docker
-  - AWS:
+  - AWS
     - S3
     - Lambda
     - EC2
