@@ -2,10 +2,11 @@
 
 Project Description:
 
-Extract, transform and load (ETL) transactional data for a theoretical national café chain. This application allows the company to visualise their data in a more accessable way. This allows them to: 
-  - Identify popular items
+Extract, transform and load (ETL) transactional data for a fictional national café chain. This application allows the company to visualise their data in a more comprehensive way. This allows them to:
+  - Identify popular items in all branches
   - Spot trends in different regions
-  - Recognise areas for development
+  - Visualise revenues in each branch
+  - Recognise areas for improvement
 
 Technologies Used:
   - Python 3.8
