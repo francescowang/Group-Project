@@ -22,4 +22,5 @@ Technologies Used:
   - Grafana
 
 Here is a supporting image that illustrates the technical architecture of this project.
+
 ![Technical Architecture](https://user-images.githubusercontent.com/73353654/114040225-52a6e200-987b-11eb-96a2-ae176f69dd9e.png)
