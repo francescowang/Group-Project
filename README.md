@@ -9,7 +9,7 @@ Extract, transform and load (ETL) transactional data for a fictional national ca
   - Recognise areas for improvement
 
 Technologies Used:
-  - Python 3.8
+  - Python 3.8.2
   - SQL
   - Visual Studio Code
     - Dev Container
